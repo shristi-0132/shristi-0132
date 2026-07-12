@@ -1,5 +1,5 @@
 # About Me:
-##👋 Hi, I'm Shristi!<br><br>🎓 B.Tech CSE student at the University of Delhi<br>💻 Passionate about Software Development, Cybersecurity, and AI/ML<br>🌱 Currently sharpening my DSA skills in C++ and building real-world projects<br>🚀 Always learning, experimenting, and turning ideas into practical solutions<br><br>> *"Code. Learn. Build. Repeat."*<br>
+## 👋 Hi, I'm Shristi!<br><br>🎓 B.Tech CSE student at the University of Delhi<br>💻 Passionate about Software Development, Cybersecurity, and AI/ML<br>🌱 Currently sharpening my DSA skills in C++ and building real-world projects<br>🚀 Always learning, experimenting, and turning ideas into practical solutions<br><br>> *"Code. Learn. Build. Repeat."*<br>
 
 
 ## 🌐 Socials:
