@@ -10,9 +10,11 @@
 
 # 📊 GitHub Stats
 
-## 🔥 Shristi's GitHub Status
-
 ![](https://streak-stats.demolab.com/?user=shristi-0132&theme=gruvbox_light&hide_border=false)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shristi-0132&theme=gruvbox_light&hide_border=false&layout=compact)
 
 ---
 
