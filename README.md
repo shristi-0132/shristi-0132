@@ -10,16 +10,12 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+![](https://streak-stats.demolab.com/?user=shristi-0132&theme=gruvbox_light&hide_border=false)
 
-<img src="https://streak-stats.demolab.com?user=shristi-0132&theme=gruvbox_light&hide_border=false" alt="GitHub Streak" />
+<br>
 
-<br><br>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shristi-0132&theme=gruvbox_light&hide_border=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shristi-0132&theme=gruvbox_light&hide_border=false&layout=compact" alt="Top Languages" />
+---
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=shristi-0132&icon=0&color=0" alt="Profile Views" />
-
-</div>
+[![](https://komarev.com/ghpvc/?username=shristi-0132&icon=0&color=0)](https://visitcount.itsvg.in)
