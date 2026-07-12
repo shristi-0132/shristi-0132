@@ -1,5 +1,5 @@
 # About Me:
-#👋 Hi, I'm Shristi!<br><br>🎓 B.Tech CSE student at the University of Delhi<br>💻 Passionate about Software Development, Cybersecurity, and AI/ML<br>🌱 Currently sharpening my DSA skills in C++ and building real-world projects<br>🚀 Always learning, experimenting, and turning ideas into practical solutions<br><br>> *"Code. Learn. Build. Repeat."*<br>
+##👋 Hi, I'm Shristi!<br><br>🎓 B.Tech CSE student at the University of Delhi<br>💻 Passionate about Software Development, Cybersecurity, and AI/ML<br>🌱 Currently sharpening my DSA skills in C++ and building real-world projects<br>🚀 Always learning, experimenting, and turning ideas into practical solutions<br><br>> *"Code. Learn. Build. Repeat."*<br>
 
 
 ## 🌐 Socials:
@@ -13,3 +13,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shristi-0132&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-contributor-stats.vercel.app/api?username=shristi-0132&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+[![](https://komarev.com/ghpvc/?username=shristi-0132&icon=2&color=0)](https://visitcount.itsvg.in)
