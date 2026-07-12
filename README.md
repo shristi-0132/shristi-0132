@@ -13,10 +13,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shristi-0132&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://github-contributor-stats.vercel.app/api?username=shristi-0132&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=shristi-0132&icon=2&color=0)](https://visitcount.itsvg.in)
-
-- ⚡ Fun fact: ...
--->
